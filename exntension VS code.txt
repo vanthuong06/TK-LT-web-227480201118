@@ -1,0 +1,18 @@
+Extention for Web design
+
+https://www.youtube.com/watch?v=LqyTyL67iN0
+Live Server
+Tailwind CSS IntelliS
+Auto Rename Tag
+ESLint
+Prettier - Code formatter
+GitLens — Git supercharged
+Bracket Pair Color DLW
+Dracula Theme Official
+ES7+ React/Redux/React-Native snippets
+Code Spell Checker
+Material Icon Theme
+Live Sass Compiler
+REST Client
+Project Manager
+Polacode

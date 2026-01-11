@@ -1,0 +1,5 @@
+selenium>=4.15.0
+pytest>=7.4.0
+pyodbc>=5.0.0
+HTMLTestRunner>=1.0.0
+
